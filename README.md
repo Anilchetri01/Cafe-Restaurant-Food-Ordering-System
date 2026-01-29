@@ -29,4 +29,4 @@ Hotel-Food-Order/
 │
 ├── hotel_menu.py
 ├── restaurant_food_order.html
-└── README.md
+|── README.md

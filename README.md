@@ -25,3 +25,8 @@ Python (Flask) for the backend and HTML/CSS/JavaScript for the frontend.
 ---
 
 ## 📂 Project Structure
+Hotel-Food-Order/
+│
+├── hotel_menu.py
+├── restaurant_food_order.html
+└── README.md
